@@ -20,9 +20,6 @@ Manage your tasks effectively with the ToDo App! 🚀 Add, organize, and track y
 
 Try it out today and experience the difference it can make in your productivity! 🎉
 
-## 📷 Screenshots
-
-[Add screenshots here if available]
 
 ## 🤝 Contributing
 
